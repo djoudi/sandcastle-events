@@ -1,4 +1,4 @@
-# SandCastle - Planet
+# SandCastle - Events
 SandCastle is a collection of tools for creating a community website/portal. It is currently under heavy development, kickstarted by the [mozilla.org.uk][1] website revamp in 2012. Built ontop of the [CodeIgniter][2] for ease of use, however each componenet should provide a good starting point for those wishing to use another framework (or even pure PHP).
 
 This [Spark][3] is the beginings of an event listing system. It provides the needed functions to make storing and listing upcoming events easy as 3.141526... More specifically it deals with the database side of things.
